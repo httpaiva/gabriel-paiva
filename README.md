@@ -15,6 +15,8 @@ Some things about me:
 - ⚡ Fun fact: ... I love to write fantasy stories
 -->
 
+## I'm a graduating student in Software Engineering and Junior Web Developer
+
 ### Connect with me:
 <img align="left" alt="Gabriel Paiva | E-mail" width="22px" src="https://i.pinimg.com/originals/79/3b/e0/793be0636a3a79b1226dffd48427284a.png" /> gabrielpaivaaguiar.gp@gmail.com
 
