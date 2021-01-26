@@ -38,6 +38,7 @@ Some things about me:
 
 <br />
 <br />
+<br />
 
 ![Gabriel Paiva's github stats](https://github-readme-stats.vercel.app/api?username=gabriel-paiva&show_icons=true&theme=dracula)
 
