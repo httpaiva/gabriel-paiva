@@ -40,6 +40,6 @@ Some things about me:
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-paiva&theme=dracula)](https://github.com/gabriel-paiva/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-paiva&theme=dracula)
 
 ![Gabriel Paiva's github stats](https://github-readme-stats.vercel.app/api?username=gabriel-paiva&show_icons=true&theme=dracula)
